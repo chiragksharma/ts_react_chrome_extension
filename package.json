@@ -1,0 +1,11 @@
+{
+  "name": "ts_react_chrome_extension",
+  "version": "1.0.0",
+  "description": "chrome extension using react and typescript",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
